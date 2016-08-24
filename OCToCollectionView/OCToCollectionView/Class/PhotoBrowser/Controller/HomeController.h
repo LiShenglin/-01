@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  HomeController.h
 //  OCToCollectionView
 //
 //  Created by 李天空 on 16/6/20.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface HomeController : UIViewController
 
 @end
-
